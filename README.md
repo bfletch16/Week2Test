@@ -1,2 +1,2 @@
 # Week2Test
-This is a test for Week 2- Crediting a GitHub profile
+This is a test for Week 2- Creating a GitHub profile
